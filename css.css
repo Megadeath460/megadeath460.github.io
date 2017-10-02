@@ -1,8 +1,8 @@
 body{
 	
-font-family: "Helvetica", "Arial", fantasy;
+font-family: "Times New Roman", Times, serif;
 	
-color: #AAFF00;
+color: #000000;
 	background-color: #ff5e00;
 	
 text-shadow: 1px 1px #ff0000;
@@ -10,7 +10,7 @@ text-shadow: 1px 1px #ff0000;
 
 }
 
-
+.solid {border-style: solid;}
 
 h1 {
 	
