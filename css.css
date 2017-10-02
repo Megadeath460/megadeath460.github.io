@@ -3,7 +3,7 @@ body{
 font-family: "Helvetica", "Arial", fantasy;
 	
 color: #AAFF00;
-	background-color: #ADD3F9;
+	background-color: #ff5e00;
 	
 text-shadow: 1px 1px #ff0000;
 	text-align: center;
@@ -18,7 +18,7 @@ font-size: 1.3em;
 	
 text-align: center;
 	
-text-shadow: 1px 1px #ff0000;
+text-shadow: 1px 1px #2086df;
 
 }
 
@@ -37,4 +37,4 @@ padding: 8px;
 
 tr:nth-child(even) {
     
-background-color: #dddddd;
+background-color: #ff0a3f;
